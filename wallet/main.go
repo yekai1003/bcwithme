@@ -11,7 +11,6 @@ import (
 	"github.com/ethereum/go-ethereum/accounts"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/tyler-smith/go-bip39"
-	"github.com/yekai1003/bcwithme/wallet"
 )
 
 func create_mnemonic() {
